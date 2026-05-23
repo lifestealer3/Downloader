@@ -1,4 +1,2 @@
-https://d154214.fpvcdn.com/key=W3qv9ZnXoiwriZPdSHGpfQ,end=1779529685,ip=172.234.115.244,country=SE,speed=1.5,buffer=1.5,reftag=/disk15/1411000/1411056/1411056_720.mp4
-https://d154214.fpvcdn.com/key=DR2a3v7sPWGVnKLXlunWg,end=1779529688,ip=172.234.115.244,country=SE,speed=1.5,buffer=1.5,reftag=/disk23/1516000/1516544/1516544_720.mp4
-https://d154214.fpvcdn.com/key=FUH670Ekn3aKC37BOCdw,end=1779529688,ip=172.234.115.244,country=SE,speed=1.5,buffer=1.5,reftag=/disk34/1491000/1491020/1491020_720.mp4
-https://d154214.fpvcdn.com/key=9GQcdMbGbDXD7vcOQpRvBg,end=1779529688,ip=172.234.115.244,country=SE,speed=1.5,buffer=1.5,reftag=/disk21/1305000/1305468/1305468_720.mp4
+https://d154214.fpvcdn.com/key=SFxrN3PUV8EzINYePySu6A,end=1779568368,ip=178.22.31.178,country=AT,speed=1.5,buffer=1.5,reftag=/disk18/1515000/1515882/1515882_720.mp4
+https://d154214.fpvcdn.com/key=iYQ3rEnZ15yflm9MQq03bw,end=
